@@ -1,5 +1,5 @@
 {
-    "MyObj": [{
+    "myObj": [{
             "question": "The _____________ tells everything in the computer how to Act.",
             "type": "multiple choice",
             "choices": ["brake system", "operating system", "power system", "CPU","None of the above"],
