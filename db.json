@@ -12,7 +12,7 @@
             "type": "fill in the blank",
             "choices": "CPU stands for __________.",
             "answer": "central processing unit",
-            "correct": 1,
+            "correct": 0,
             "explanation": "CPU is short for central processing unit"
         },
         {
@@ -20,7 +20,7 @@
             "type": "multiple choice",
             "choices": ["eSATA", "SATA", "RAM", "ROM","None of the above"],
             "answer": "RAM",
-            "correct": 1,
+            "correct": 2,
             "explanation": "RAM"
         },
         {
@@ -28,7 +28,7 @@
             "type": "true/false",
             "choices": ["true", "false"],
             "answer": "true",
-            "correct": 1,
+            "correct": 0,
             "explanation": "A computing device does use binary data to automatically perform calculations."
         },
         {
@@ -36,7 +36,7 @@
             "type": "multiple choice",
             "choices": ["megacomputer", "mainframe", "supercomputer", "all-in-one-computer","None of the above"],
             "answer": "supercomputer",
-            "correct": 1,
+            "correct": 2,
             "explanation": "supercomputer are the fastest and the most expensive computer among all types of computers."
         },
         {
@@ -44,7 +44,7 @@
             "type": "fill in the blank",
             "choices": "In binary a 1 represents _____.",
             "answer": "on",
-            "correct": 1,
+            "correct": 0,
             "explanation": "In binary a 1 represents on"
         },
         {
@@ -52,7 +52,7 @@
             "type": "fill in the blank",
             "choices": "In binary a 0 represents _____.",
             "answer": "off",
-            "correct": 1,
+            "correct": 0,
             "explanation": "In binary a 0 represents off"
         },
         {
@@ -60,7 +60,7 @@
             "type": "checkboxes",
             "choices": ["firewall", "network connection", "webcam", "microphone","modem"],
             "answer": ["network connection", "webcam", "microphone"],
-            "correct": 1,
+            "correct": [1,2,3],
             "explanation": "Three essentials during quarantine "
         },
         {
@@ -68,7 +68,7 @@
             "type": "short answer",
             "choices": [],
             "answer": "spyware",
-            "correct": 1,
+            "correct": 0,
             "explanation": "spyware is malware that has embedded kelogger to capture all the keystrokes and steal logins is considered"
         },
         {
@@ -76,7 +76,7 @@
             "type": "true/false",
             "choices": ["true", "false"],
             "answer": "true",
-            "correct": 1,
+            "correct": 0,
             "explanation": "Some devices can be both input and output devices."
         },
         {
@@ -84,7 +84,7 @@
             "type": "checkboxes",
             "choices": ["SSD", "RAM", "Motherboard", "CPU"],
             "answer": ["SSD", "RAM"],
-            "correct": 1,
+            "correct": [0,1]
             "explanation": "SSD and RAM store data "
         },
         {
@@ -92,7 +92,7 @@
             "type": "true/false",
             "choices": ["true", "false"],
             "answer": "true",
-            "correct": 1,
+            "correct": 0,
             "explanation": "keyboard, microphone, and scanners are examples of standard input devices"
         },
         {
@@ -100,7 +100,7 @@
             "type": "multiple choice",
             "choices": ["Gmail, Facebook, Dropbox", "Document File, Pictures File, Temporary File", "CD, Flash Drive, Floppy Disk", "Outlook Express, Microsoft Word, Windows 7","None of the above"],
             "answer": "Gmail, Facebook, Dropbox ",
-            "correct": 1,
+            "correct": 0,
             "explanation": "Gmail, Facebook, Dropbox are examples of Cloud Storage."
         },
         {
@@ -108,7 +108,7 @@
             "type": "short answer",
             "choices": [],
             "answer": "ransomware",
-            "correct": 1,
+            "correct": 0,
             "explanation": "ransomware attacks demand payment"
         },
         {
@@ -116,7 +116,7 @@
             "type": "fill in the blank",
             "choices": "A computer's language is called________ code.",
             "answer": "binary",
-            "correct": 1,
+            "correct": 0,
             "explanation": "A computer language is also referred to as a binary code"
         },
         {
@@ -124,7 +124,7 @@
             "type": "multiple choice",
             "choices": ["CPU", "User", "Monitor", "Software","None of the above"],
             "answer": "CPU",
-            "correct": 1,
+            "correct": 0,
             "explanation": "CPU is the component of a computer controls the entire system and is often called the brain of the computer"
         },
         {
@@ -140,7 +140,7 @@
             "type": "true/false",
             "choices": ["true", "false"],
             "answer": "true",
-            "correct": 1,
+            "correct": 0,
             "explanation": "Rom is an acronym for Read-Only Memory"
         },
         {
@@ -156,7 +156,7 @@
             "type": "multiple choice",
             "choices": ["Entertainmentware", "Flashware", "Hardware", "Software","None of the above"],
             "answer": "Software",
-            "correct": 1,
+            "correct": 3,
             "explanation": "Computer programs and games are Softwares"
       }
 
