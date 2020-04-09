@@ -1,4 +1,5 @@
-"quiz2": [
+{
+    "quiz2": [
     {
       "question": "variables declared with in a class, outside any method, with the static keyword?",
       "type": "multiple choice",
@@ -241,3 +242,4 @@
       "explanation": "hi is equal to hi; hence true."
     }
   ]
+}
