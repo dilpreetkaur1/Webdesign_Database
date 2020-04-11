@@ -34,7 +34,7 @@
       ],
       "answer": "RAM",
       "correct": 2,
-      "explanation": "RAM"
+      "explanation": "RAM is a volatile memory-must be connected to a power source"
     },
     {
       "question": "A computing device is an electronic machine that uses binary data to automatically perform calculations.",
