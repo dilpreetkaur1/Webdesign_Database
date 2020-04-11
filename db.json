@@ -12,7 +12,7 @@
       ],
       "answer": "operating system",
       "correct": 1,
-      "explanation": "Sorry!\\The operating system manages and controls everything in the system"
+      "explanation": "The operating system manages and controls everything in the system"
     },
     {
       "question": "Fill in the blank",
@@ -59,7 +59,7 @@
       ],
       "answer": "supercomputer",
       "correct": 2,
-      "explanation": "supercomputer are the fastest and the most expensive computer among all types of computers."
+      "explanation": "Supercomputer are the fastest and the most expensive computer among all types of computers."
     },
     {
       "question": "Fill in the blank",
@@ -101,7 +101,7 @@
       "choices": [],
       "answer": "spyware",
       "correct": 0,
-      "explanation": "spyware is malware that has embedded kelogger to capture all the keystrokes and steal logins is considered"
+      "explanation": "Spyware is malware that has embedded kelogger to capture all the keystrokes and steal logins is considered"
     },
     {
       "question": "Some devices can be both input and output devices.",
@@ -142,7 +142,7 @@
       ],
       "answer": "true",
       "correct": 0,
-      "explanation": "keyboard, microphone, and scanners are examples of standard input devices"
+      "explanation": "Keyboard, microphone, and scanners are examples of standard input devices"
     },
     {
       "question": "Which group are examples of Cloud Storage? ",
@@ -164,7 +164,7 @@
       "choices": [],
       "answer": "ransomware",
       "correct": 0,
-      "explanation": "ransomware attacks demand payment"
+      "explanation": "Ransomware attacks demand payment"
     },
     {
       "question": "Fill in the blank",
