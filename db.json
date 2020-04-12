@@ -93,7 +93,7 @@
         "microphone"
       ],
       "correct": 1,
-      "explanation": "Three essentials during quarantine "
+      "explanation": "Network connection, webcam, and microphone are three essentials during quarantine "
     },
     {
       "question": "malware that has embedded kelogger to capture all the keystrokes and steal logins is considered",
@@ -112,7 +112,7 @@
       ],
       "answer": "true",
       "correct": 0,
-      "explanation": "Some devices can be both input and output devices."
+      "explanation": "True, some devices can be both input and output devices."
     },
     {
       "question": "What components are used to store data (select two)",
